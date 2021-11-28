@@ -14,6 +14,8 @@ node index.js
 
 https://studio.apollographql.com/sandbox
 
+※ localhost を除き、HTTPS 化されていない通信は拒否されます
+
 ```
 query GetBooks {
   books {
